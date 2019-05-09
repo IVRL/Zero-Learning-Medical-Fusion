@@ -9,8 +9,8 @@ Official implementation of Zero-Learning Fast Medical Image fusion.
 ![](example1.png)
 This is the author's implementation of medical image fusion using pre-trained neural networks described in:
 
-**Zero-Learning Fast Medical Image Fusion**
-Fayez Lahoud, Sabine Süsstrunk
+**Zero-Learning Fast Medical Image Fusion**  
+Fayez Lahoud, Sabine Süsstrunk  
 FUSION 2019
 
 Given a set of pre-aligned images, our algorithm geneates a high quality fusion reflecting the relevant features from all the inputs.
