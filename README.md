@@ -21,7 +21,7 @@ Contact: Fayez Lahoud (fayez.lahoud@epfl.ch)
 ```
 @inproceedings{fayez2019zero,
 title={Zero-learning fast medical image fusion},
-author={Fayez, Lahoud and Sabine, Süsstrunk}
+author={Fayez, Lahoud and Sabine, Süsstrunk},
 booktitle={2019 22nd International Conference on Information Fusion (Fusion)},
 year={2019},
 organization={IEEE}
